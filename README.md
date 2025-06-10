@@ -18,6 +18,7 @@ Azure OpenAI Service + Python + dotenv 사용 예제 프로젝트입니다.
 
 ## 📁 프로젝트 구조
 
+```
 KTDSSAMPLE/
 ├── .gitignore
 ├── .env.example
@@ -28,6 +29,7 @@ KTDSSAMPLE/
 ├── 04.AI_poem_web.py
 ├── requirements.txt (선택)
 └── 기타 소스코드 파일들
+```
 
 ---
 
