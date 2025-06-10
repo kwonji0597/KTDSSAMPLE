@@ -27,8 +27,7 @@ KTDSSAMPLE/
 ├── 02.AI_poem.py
 ├── 03.streamlit_basic.py
 ├── 04.AI_poem_web.py
-├── requirements.txt (선택)
-└── 기타 소스코드 파일들
+├── requirements.txt
 ```
 
 ---
